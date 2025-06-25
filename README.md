@@ -6,6 +6,7 @@ This report provides an in-depth analysis of customer purchasing behavior at Wel
 
  
 **Key Observations**
+
 1. **Top Performing Products and Categories**
 The leading sold item is Headphones, generating $846,878.56 in revenue.
 
@@ -71,8 +72,7 @@ Tailor Customer Engagement by Category: Use ratings and feedback data to improve
 
 Promote Inclusive Marketingn by ensuring advertising and user interfaces are inclusive of all gender identities to maintain and grow the "Other" gender group engagement.
 
-**Tool Used**: Microsoft Excel
-
-
 **Conclusion**
 Welmart’s customer purchasing patterns reveal a strong preference for electronic items, particularly headphones, with consistent performance across multiple categories. The presence of discount sensitivity and strong seasonal peaks highlights the importance of timely promotional campaigns. With equal gender engagement and balanced payment preferences, Welmart is well-positioned to further optimize its strategies for growth through inclusive marketing, improved digital payment adoption, and enhanced customer experience.
+
+**Tool Used**: Microsoft Excel
